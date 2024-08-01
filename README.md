@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently studying as an Undergraduate Student of Informatics at Diponegoro University who is enthusiastic to improve his skills and has a passion for Machine Learning. Someone who can understand English fluently, loves challenges, knowledgeable in Pattern Recognition, Competitive Programming, Data analytics and Data Mining. Great with Python, PHP, CSS, HTML, C++, and C# programming. A creative thinker that loves to learn new things.
 <!--
 **fidopecado/fidopecado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
